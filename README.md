@@ -4,6 +4,11 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:238636&height=220&section=header&text=RAJ%20ABHISHEK&fontSize=50&fontColor=e6edf3&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20ML%20Enthusiast%20%7C%20Builder&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%"/>
 
 <!-- TYPING SVG -->
+
+<!-- ANIMATED HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:238636&height=220&section=header&text=RAJ%20ABHISHEK&fontSize=50&fontColor=e6edf3&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20ML%20Enthusiast%20%7C%20Builder&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%"/>
+
+<!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building+things+that+solve+real+problems;Node.js+%7C+TypeScript+%7C+Python+%7C+ML;Always+shipping%2C+always+learning" alt="Typing SVG" />
 </a>
@@ -84,7 +89,7 @@ fun_fact: I debug with console.log and I'm not ashamed
 <br/>
 
 <!-- STREAK STATS -->
-<img src="https://streak-stats.demolab.com?user=RajAbhishek0721&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=238636&fire=238636&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&currStreakNum=e6edf3&sideNums=e6edf3" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=RajAbhishek0721&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=238636&fire=238636&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&currStreakNum=e6edf3&sideNums=e6edf3" alt="GitHub Streak"/>
 
 </div>
 
