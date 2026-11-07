@@ -73,13 +73,19 @@ fun_fact: I debug with console.log and I'm not ashamed
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RajAbhishek0721&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=238636&text_color=8b949e&ring_color=238636&count_private=true" alt="GitHub Stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajAbhishek0721&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8" alt="Top Languages"/>
+<a href="https://github.com/RajAbhishek0721">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RajAbhishek0721&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=238636&text_color=8b949e&ring_color=238636&count_private=true" alt="GitHub Stats"/>
+</a>
+<a href="https://github.com/RajAbhishek0721">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RajAbhishek0721&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8" alt="Top Languages"/>
+</a>
 
 <br/>
 
 <!-- STREAK STATS -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RajAbhishek0721&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=238636&fire=238636&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&currStreakNum=e6edf3&sideNums=e6edf3" alt="GitHub Streak"/>
+<a href="https://github.com/RajAbhishek0721">
+  <img src="https://streak-stats.demolab.com?user=RajAbhishek0721&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=238636&fire=238636&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&currStreakNum=e6edf3&sideNums=e6edf3" alt="GitHub Streak"/>
+</a>
 
 </div>
 
@@ -89,11 +95,19 @@ fun_fact: I debug with console.log and I'm not ashamed
 
 <div align="center">
 
-[![AI Stock](https://github-readme-stats.vercel.app/api/pin/?username=RajAbhishek0721&repo=AI_STOCK&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=238636&text_color=8b949e)](https://github.com/RajAbhishek0721/AI_STOCK)
-[![Node Hotels](https://github-readme-stats.vercel.app/api/pin/?username=RajAbhishek0721&repo=nodejs_hotels&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=238636&text_color=8b949e)](https://github.com/RajAbhishek0721/nodejs_hotels)
+<a href="https://github.com/RajAbhishek0721/AI_STOCK">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=RajAbhishek0721&repo=AI_STOCK&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=238636&text_color=8b949e" alt="AI Stock"/>
+</a>
+<a href="https://github.com/RajAbhishek0721/nodejs_hotels">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=RajAbhishek0721&repo=nodejs_hotels&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=238636&text_color=8b949e" alt="Node Hotels"/>
+</a>
 
-[![CNN Image](https://github-readme-stats.vercel.app/api/pin/?username=RajAbhishek0721&repo=CNN_Image&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=238636&text_color=8b949e)](https://github.com/RajAbhishek0721/CNN_Image)
-[![Sentiment Analysis](https://github-readme-stats.vercel.app/api/pin/?username=RajAbhishek0721&repo=SentimentalAnalysis&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=238636&text_color=8b949e)](https://github.com/RajAbhishek0721/SentimentalAnalysis)
+<a href="https://github.com/RajAbhishek0721/CNN_Image">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=RajAbhishek0721&repo=CNN_Image&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=238636&text_color=8b949e" alt="CNN Image"/>
+</a>
+<a href="https://github.com/RajAbhishek0721/SentimentalAnalysis">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=RajAbhishek0721&repo=SentimentalAnalysis&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=238636&text_color=8b949e" alt="Sentiment Analysis"/>
+</a>
 
 </div>
 
@@ -103,7 +117,23 @@ fun_fact: I debug with console.log and I'm not ashamed
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RajAbhishek0721&bg_color=0d1117&color=58a6ff&line=238636&point=e6edf3&area=true&area_color=238636&hide_border=true&custom_title=Contribution%20Graph)](https://github.com/RajAbhishek0721)
+<a href="https://github.com/RajAbhishek0721">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RajAbhishek0721&bg_color=0d1117&color=58a6ff&line=238636&point=e6edf3&area=true&area_color=238636&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph"/>
+</a>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RajAbhishek0721/RajAbhishek0721/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RajAbhishek0721/RajAbhishek0721/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/RajAbhishek0721/RajAbhishek0721/output/github-snake-dark.svg" />
+</picture>
 
 </div>
 
