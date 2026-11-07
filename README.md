@@ -73,19 +73,13 @@ fun_fact: I debug with console.log and I'm not ashamed
 
 <div align="center">
 
-<a href="https://github.com/RajAbhishek0721">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RajAbhishek0721&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=238636&text_color=8b949e&ring_color=238636&count_private=true" alt="GitHub Stats"/>
-</a>
-<a href="https://github.com/RajAbhishek0721">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RajAbhishek0721&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8" alt="Top Languages"/>
-</a>
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RajAbhishek0721&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=238636&text_color=8b949e&ring_color=238636&count_private=true&cache_seconds=86400" alt="GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RajAbhishek0721&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8&cache_seconds=86400" alt="Top Languages"/>
 
 <br/>
 
 <!-- STREAK STATS -->
-<a href="https://github.com/RajAbhishek0721">
-  <img src="https://streak-stats.demolab.com?user=RajAbhishek0721&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=238636&fire=238636&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&currStreakNum=e6edf3&sideNums=e6edf3" alt="GitHub Streak"/>
-</a>
+<img src="https://streak-stats.demolab.com?user=RajAbhishek0721&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=238636&fire=238636&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&currStreakNum=e6edf3&sideNums=e6edf3" alt="GitHub Streak"/>
 
 </div>
 
@@ -95,19 +89,12 @@ fun_fact: I debug with console.log and I'm not ashamed
 
 <div align="center">
 
-<a href="https://github.com/RajAbhishek0721/AI_STOCK">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=RajAbhishek0721&repo=AI_STOCK&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=238636&text_color=8b949e" alt="AI Stock"/>
-</a>
-<a href="https://github.com/RajAbhishek0721/nodejs_hotels">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=RajAbhishek0721&repo=nodejs_hotels&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=238636&text_color=8b949e" alt="Node Hotels"/>
-</a>
-
-<a href="https://github.com/RajAbhishek0721/CNN_Image">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=RajAbhishek0721&repo=CNN_Image&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=238636&text_color=8b949e" alt="CNN Image"/>
-</a>
-<a href="https://github.com/RajAbhishek0721/SentimentalAnalysis">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=RajAbhishek0721&repo=SentimentalAnalysis&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=238636&text_color=8b949e" alt="Sentiment Analysis"/>
-</a>
+| Project | Description | Tech |
+|---------|-------------|------|
+| [**AI_STOCK**](https://github.com/RajAbhishek0721/AI_STOCK) | AI-powered stock market prediction | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) |
+| [**nodejs_hotels**](https://github.com/RajAbhishek0721/nodejs_hotels) | Hotel management system REST API | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000?style=flat-square&logo=express&logoColor=white) |
+| [**CNN_Image**](https://github.com/RajAbhishek0721/CNN_Image) | Image classification using CNN | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) |
+| [**SentimentalAnalysis**](https://github.com/RajAbhishek0721/SentimentalAnalysis) | NLP-based sentiment analysis | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![scikit-learn](https://img.shields.io/badge/-sklearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) |
 
 </div>
 
@@ -117,9 +104,7 @@ fun_fact: I debug with console.log and I'm not ashamed
 
 <div align="center">
 
-<a href="https://github.com/RajAbhishek0721">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RajAbhishek0721&bg_color=0d1117&color=58a6ff&line=238636&point=e6edf3&area=true&area_color=238636&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph"/>
-</a>
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RajAbhishek0721&bg_color=0d1117&color=58a6ff&line=238636&point=e6edf3&area=true&area_color=238636&hide_border=true&custom_title=Contribution%20Graph)](https://github.com/RajAbhishek0721)
 
 </div>
 
