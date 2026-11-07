@@ -4,11 +4,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:238636&height=220&section=header&text=RAJ%20ABHISHEK&fontSize=50&fontColor=e6edf3&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20ML%20Enthusiast%20%7C%20Builder&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%"/>
 
 <!-- TYPING SVG -->
-
-<!-- ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:238636&height=220&section=header&text=RAJ%20ABHISHEK&fontSize=50&fontColor=e6edf3&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20ML%20Enthusiast%20%7C%20Builder&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%"/>
-
-<!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building+things+that+solve+real+problems;Node.js+%7C+TypeScript+%7C+Python+%7C+ML;Always+shipping%2C+always+learning" alt="Typing SVG" />
 </a>
